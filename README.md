@@ -1,10 +1,17 @@
 ## Hi, I'm Sadia 👋
+
 🔭 Immersed in advanced TypeScript developments.
+
 🧠 Skilled in Python for backend development, scripting, and automation.
+
 💻 Proficient in crafting modern, responsive UIs using HTML, CSS, JavaScript, and Tailwind CSS.
+
 🚀 Experienced in developing full-stack web applications using Next.js and integrating Sanity CMS.
+
 🎨 Well-versed in UI/UX design principles to deliver clean and intuitive user experiences.
+
 🌱 Always exploring new technologies and refining development practices.
+
 💬 Open to meaningful discussions around JavaScript, TypeScript, Next.js, and modern web development.
 <!-- - 💼 Explore my [CV](cv-link). -->
 - ✉️ For questions or help, drop me an [email](mailto:sadiakham985@gmail.com).
