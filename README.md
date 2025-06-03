@@ -12,7 +12,13 @@
 🌱 Continuously learning and improving development practices
 💬 Let’s talk about JavaScript, TypeScript, Next.js, or AI-driven development!
 
-📬 For inquiries or collaboration:sadiakham985@gmail.com
+🛠️ Tech & Tools:
+Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+Backend: Python (basic scripting & logic)
+UI/UX Design: Figma, Wireframes, Prototyping, User Flows
+Other: Git, GitHub, Responsive Design, SEO Best Practices, Sanity CMS
+
+📬 For inquiries or collaboration: sadiakham985@gmail.com
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiakhn/)
@@ -22,3 +28,4 @@
 <a href="https://wakatime.com/@sadiarajpoot"><img src="https://wakatime.com/badge/user/018ee617-2dc5-4def-913b-d11b3bfb9ad0.svg?style=for-the-badge" /></a>
 &nbsp; <img src="https://komarev.com/ghpvc/?username=sadiarajpoot&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="sadiarajpoot" />
+<a href="https://www.freelancer.com/u/sadiak808">freelancer</a>
