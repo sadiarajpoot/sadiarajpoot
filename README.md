@@ -4,7 +4,7 @@
 
 🔭 Immersed in advanced TypeScript developments
 🧠 Skilled in Python for backend development, scripting, and automation
-💻 Proficient in crafting modern, responsive UIs using HTML, CSS, Tailwind CSS, JavaScript, and TypeScript
+💻 Proficient in crafting modern, responsive UIs using HTML, CSS, Tailwind CSS, JavaScript, and TypeScript ,Next.js
 ⚛️ Experienced with React.js and Next.js for full-stack applications
 🧩 Integrated Sanity CMS for seamless content management
 🎨 UI/UX design expert focused on clean, user-friendly digital experiences
@@ -20,8 +20,10 @@ Other: Git, GitHub, Responsive Design, SEO Best Practices, Sanity CMS
 
 📬 For inquiries or collaboration: sadiakham985@gmail.com
 ## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiakhn/)
+[![freelancer](https://www.freelancer.com/u/sadiak808)
+[![LinkedIn](https://www.linkedin.com/in/sadiakhn/)
+[![facebook](https://www.facebook.com/profile.php?id=61557371273415)
+[![instagram](https://www.instagram.com/sadiakhan9433/?next=%2F&hl=en)
 
 ## Stats
 
