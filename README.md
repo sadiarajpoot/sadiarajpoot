@@ -20,12 +20,12 @@ Other: Git, GitHub, Responsive Design, SEO Best Practices, Sanity CMS
 
 📬 For inquiries or collaboration: sadiakham985@gmail.com
 ## Connect
-[freelancer](https://www.freelancer.com/u/sadiak808)
-[LinkedIn](https://www.linkedin.com/in/sadiakhn/)
-[facebook](https://www.facebook.com/profile.php?id=61557371273415)
-[![instagram](https://www.instagram.com/sadiakhan9433/?next=%2F&hl=en)
+ 🔗[freelancer](https://www.freelancer.com/u/sadiak808)
+ 🔗[LinkedIn](https://www.linkedin.com/in/sadiakhn/)
+ 🔗[facebook](https://www.facebook.com/profile.php?id=61557371273415)
+🔗[instagram](https://www.instagram.com/sadiakhan9433/?next=%2F&hl=en)
 
-## Stats
+## Status
 
 <a href="https://wakatime.com/@sadiarajpoot"><img src="https://wakatime.com/badge/user/018ee617-2dc5-4def-913b-d11b3bfb9ad0.svg?style=for-the-badge" /></a>
 &nbsp; <img src="https://komarev.com/ghpvc/?username=sadiarajpoot&label=Profile%20views&color=11eb11&style=for-the-badge"
