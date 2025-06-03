@@ -1,22 +1,18 @@
 ## Hi, I'm Sadia 👋
 
-🔭 Immersed in advanced TypeScript developments.
+🚀 Frontend Developer | UI/UX Designer | Freelance Specialist | Agentic AI Enthusiast
 
-🧠 Skilled in Python for backend development, scripting, and automation.
+🔭 Immersed in advanced TypeScript developments
+🧠 Skilled in Python for backend development, scripting, and automation
+💻 Proficient in crafting modern, responsive UIs using HTML, CSS, Tailwind CSS, JavaScript, and TypeScript
+⚛️ Experienced with React.js and Next.js for full-stack applications
+🧩 Integrated Sanity CMS for seamless content management
+🎨 UI/UX design expert focused on clean, user-friendly digital experiences
+🌐 Exploring the cutting edge with Agentic AI technologies
+🌱 Continuously learning and improving development practices
+💬 Let’s talk about JavaScript, TypeScript, Next.js, or AI-driven development!
 
-💻 Proficient in crafting modern, responsive UIs using HTML, CSS, JavaScript, and Tailwind CSS.
-
-🚀 Experienced in developing full-stack web applications using Next.js and integrating Sanity CMS.
-
-🎨 Well-versed in UI/UX design principles to deliver clean and intuitive user experiences.
-
-🌱 Always exploring new technologies and refining development practices.
-
-💬 Open to meaningful discussions around JavaScript, TypeScript, Next.js, and modern web development.
-<!-- - 💼 Explore my [CV](cv-link). -->
-- ✉️ For questions or help, drop me an [email](mailto:sadiakham985@gmail.com).
-<!-- - 🌐 Visit my [website](website-link). -->
-
+📬 For inquiries or collaboration:sadiakham985@gmail.com
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiakhn/)
