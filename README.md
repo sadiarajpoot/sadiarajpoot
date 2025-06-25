@@ -1,6 +1,6 @@
 ## Hi, I'm Sadia 👋
 
-🚀 Frontend Developer | UI/UX Designer | Freelancer | Agentic AI Enthusiast
+🚀 Frontend Developer | UI/UX Designer | Freelancer |  MERN Stack |  Agentic AI Enthusiast
 
 🔭 Immersed in advanced TypeScript developments
 🧠 Skilled in Python for backend development, scripting, and automation
