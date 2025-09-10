@@ -1,10 +1,10 @@
-## Hi, I'm Sadia 👋
 
-🚀<p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;🎨+UI%2FUX+Designer;🌐+Freelancer;⚛️+MERN+Stack+Developer;🤖+Agentic+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+## Hi, I'm Sadia 👋
 🚀 Frontend Developer | UI/UX Designer | Freelancer | MERN Stack | Agentic AI Enthusiast
 🔭 Immersed in advanced TypeScript developments
 🧠 Skilled in Python for backend development, scripting, and automation
