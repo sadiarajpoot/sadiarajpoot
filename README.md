@@ -5,7 +5,9 @@
   </a>
 </p>
 ## Hi, I'm Sadia 👋
+
 🚀 Frontend Developer | UI/UX Designer | Freelancer | MERN Stack | Agentic AI Enthusiast
+
 🔭 Immersed in advanced TypeScript developments
 🧠 Skilled in Python for backend development, scripting, and automation
 💻 Proficient in crafting modern, responsive UIs using HTML, CSS, Tailwind CSS, JavaScript, and TypeScript ,Next.js
