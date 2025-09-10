@@ -20,10 +20,12 @@ Other: Git, GitHub, Responsive Design, SEO Best Practices, Sanity CMS
 
 📬 For inquiries or collaboration: sadiakham985@gmail.com
 ## Connect
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail "Email me at sadiakham985@gmail.com")](sadiakham985@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?logo=linkedin "Visit my LinkedIn profile")]([https://www.linkedin.com](https://www.linkedin.com/in/sadiakhn/)) 
-[![Facebook](https://img.shields.io/badge/Facebook-Follow%20me-blue?logo=facebook "Follow me on Facebook")]([https://facebook.com](https://www.facebook.com/profile.php?id=61557371273415))  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-pink?logo=instagram "Follow me on Instagram")]([https://instagram.com](https://www.instagram.com/sadiakhan9433/?next=%2F&hl=en))  
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail "Email me at ")](sadiakham985@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?logo=linkedin )]([https://www.linkedin.com](https://www.linkedin.com/in/sadiakhn/)) 
+[![Facebook](https://img.shields.io/badge/Facebook-Follow%20me-blue?logo=facebook )]([https://facebook.com](https://www.facebook.com/profile.php?id=61557371273415))  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-pink?logo=instagram )]([https://instagram.com](https://www.instagram.com/sadiakhan9433/?next=%2F&hl=en))  
 
 
 ## Status
