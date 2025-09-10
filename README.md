@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Frontend+Developer;🎨+UI%2FUX+Designer;🌐+Freelancer;⚛️+MERN+Stack+Developer;🤖+Agentic+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+🚀 Frontend Developer | UI/UX Designer | Freelancer | MERN Stack | Agentic AI Enthusiast
 🔭 Immersed in advanced TypeScript developments
 🧠 Skilled in Python for backend development, scripting, and automation
 💻 Proficient in crafting modern, responsive UIs using HTML, CSS, Tailwind CSS, JavaScript, and TypeScript ,Next.js
